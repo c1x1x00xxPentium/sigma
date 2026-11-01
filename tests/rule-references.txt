@@ -3824,3 +3824,13 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://anydesk.com/en/changelog/windows
 https://www.elastic.co/guide/en/security/7.17/prebuilt-rule-0-16-1-scheduled-task-execution-at-scale-via-gpo.html
 https://www.virustotal.com/gui/file/b4b1fc65f87b3dcfa35e2dbe8e0a34ad9d8a400bec332025c0a2e200671038aa/behavior
+https://goodworkaround.com/2022/02/15/digging-into-azure-ad-certificate-based-authentication/
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/netsh-advfirewall-firewall-control-firewall-behavior
+https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/ransomware-report-avaddon-and-new-techniques-emerge-industrial-sector-targeted
+https://community.fortinet.com/t5/FortiGate/Technical-Tip-Critical-vulnerability-Protect-against-heap-based/ta-p/239420
+https://web.archive.org/web/20230329163438/https://blog.menasec.net/2019/02/threat-hunting-5-detecting-enumeration.html
+https://twitter.com/standa_t/status/1808868985678803222
+https://asec.ahnlab.com/en/61000/
+https://web.archive.org/web/20221204161143/https://www.glitch-cat.com/p/green-lambert-and-attack
+https://evasions.checkpoint.com/techniques/macos.html
+https://malware.guide/browser-hijacker/remove-onelaunch-virus/
